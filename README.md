@@ -1,4 +1,4 @@
-# Part ID Prediction
+# Part Classification
 
 This project includes scripts for training a machine learning model and a Streamlit application to predict part IDs based on descriptions and organizations.
 
